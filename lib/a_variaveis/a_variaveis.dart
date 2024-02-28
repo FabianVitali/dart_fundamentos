@@ -1,3 +1,5 @@
+// ignore_for_file: unused_local_variable, non_constant_identifier_names
+
 void main() {
   num qualquerNumero = 1.2;
   num qualquerNumero2 = 1.2;
